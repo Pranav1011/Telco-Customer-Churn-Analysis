@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis
 
-This project focuses on analyzing customer churn in a telecommunications company using the Telco Customer Churn dataset. The goal is to gain insights into the factors that contribute to customer churn and provide data-driven recommendations to reduce churn rate.
+This project focuses on analyzing customer churn in a telecommunications company using the Telco Customer Churn dataset.
 
 ## Dataset
 
